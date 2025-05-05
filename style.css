@@ -1,0 +1,24 @@
+body {
+    background: wheat;
+    font-size: 15pt;
+    color: hotpink;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 21%;
+    margin-top: 50%;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    margin-left: 21%;
+    width: 60px;
+    background-color: pink;
+    border-color: deeppink;
+    border-radius: 30px;
+}
